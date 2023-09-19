@@ -11,9 +11,9 @@ import Theteam from "~/components/theteam.astro";
 import "~/styles/index.css";
 
 const { generator, site } = Astro;
-const image = new URL("social.jpg", site);
+const image = new URL("rcsol.png", site);
 const description =
-  "Rolleston College's Very own film Crew";
+  "Rolleston College Film Club";
 ---
 
 <!doctype html>
@@ -28,12 +28,11 @@ const description =
     <meta name="description" content={description} />
 
     <!-- social media -->
-    <meta property="og:title" content="Astro" />
+    <meta property="og:title" content="Rolleston College Film Club" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={image} />
     <meta property="og:url" content={site} />
-    <meta name="twitter:card" content="summary_large_image" />
 
     <!-- initialize theme -->
     <script is:inline>
