@@ -1,10 +1,10 @@
 ---
 import { getCollection } from "astro:content";
 import ContentSection from "~/components/content-section.astro";
-import ShowcaseCard from "~/components/showcase-card.astro";
+import Theteam from "~/components/theteam-card.astro";
 
 const featuredSites = await getCollection(
-  "showcase",
+  "theteam",
   ({ data }) => "featured" in data,
 );
 const orderedSites = featuredSites.sort(
@@ -18,7 +18,7 @@ const orderedSites = featuredSites.sort(
   </Fragment>
   <div class="max-w-6xl space-y-2">
     <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
-      {orderedSites.map((site) => <ShowcaseCard site={site} />)}
+      {orderedSites.map((site) => <Theteam site={site} />)}
     </div>
     <p class="text-right text-sm">
 
