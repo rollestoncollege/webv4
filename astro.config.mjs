@@ -4,7 +4,7 @@ import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astro-moon-landing.netlify.app/",
+  site: "https://www.filmclub.tech/",
   integrations: [
     tailwind(),
     image({
@@ -16,4 +16,6 @@ export default defineConfig({
       external: ["svgo"],
     },
   },
+  output: 'server',
+  adapter: vercel(),
 });
