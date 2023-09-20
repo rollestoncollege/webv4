@@ -10,6 +10,7 @@ export default defineConfig({
     image({
       serviceEntryPoint: "@astrojs/image/sharp",
     }),
+    vercel(),
   ],
   vite: {
     ssr: {
