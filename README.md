@@ -48,7 +48,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/rollestoncol
 
 ## Authors
 
-* **HuskyNZ** - *HuskyNZ* - [HuskyNZ](https://www.husky.nz) - *All of the site*
+[HuskyNZ](https://www.husky.nz)
+
 
 ## Acknowledgements
 
