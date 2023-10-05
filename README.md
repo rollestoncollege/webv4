@@ -47,7 +47,9 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See [LICENSE](https://github.com/rollestoncollege/webv4/blob/master/LICENSE) for more information.
 
 ## Authors
+
 [HuskyNZ](https://www.husky.nz)
+
 
 ## Acknowledgements
 
