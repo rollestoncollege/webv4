@@ -13,6 +13,7 @@ const theteam = defineCollection({
   type: "data",
   schema: z.object({
     title: z.string().min(1),
+    pag: z.string().min(1),
     image: z.string(),
     url: z.string().url(),
     featured: z.number().min(1).optional(),
