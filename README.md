@@ -42,9 +42,11 @@ Distributed under the MPL License. See [LICENSE](https://github.com/rollestoncol
 
 ## Authors
 
+
 * [HuskyNZ](https://www.husky.nz)
 * [Liam](https://liamsherwin.tech)
 * [Finn](https://finn.nz)
+
 
 
 ## Acknowledgements
