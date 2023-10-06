@@ -12,7 +12,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/rollestoncollege/Webv4/total) ![Contributors](https://img.shields.io/github/contributors/rollestoncollege/Webv4?color=dark-green) ![Issues](https://img.shields.io/github/issues/rollestoncollege/Webv4) ![License](https://img.shields.io/github/license/rollestoncollege/Webv4) 
+![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=rolleston-college-film-club-website) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fcloudflare-pages-badges.hunz.workers.dev%2F%3FprojectName%3Dwebv4) ![Contributors](https://img.shields.io/github/contributors/rollestoncollege/Webv4?color=dark-green) ![Issues](https://img.shields.io/github/issues/rollestoncollege/Webv4) ![License](https://img.shields.io/github/license/rollestoncollege/Webv4) 
 
 ## About The Project
 
@@ -20,8 +20,12 @@ Built in astro its meant to be lean and fast
 
 ## Built With
 
-Astro,Tailwind,And brains
-
+* Astro
+* Tailwind
+* Vercel
+* Cloudlfare
+* Github
+* AWS S3
 ## Roadmap
 
 There is alot of stuff that I want to make  happen. And alot more to come
@@ -32,27 +36,21 @@ Contributions are what make the open source community such an amazing place to b
 * If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/rollestoncollege/Webv4/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/rollestoncollege/Webv4/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
-
-### Creating A Pull Request
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/rollestoncollege/webv4/blob/master/LICENSE) for more information.
+Distributed under the MPL License. See [LICENSE](https://github.com/rollestoncollege/webv4/blob/master/LICENSE) for more information.
 
 ## Authors
 
-[HuskyNZ](https://www.husky.nz)
+
+* [HuskyNZ](https://www.husky.nz)
+* [Liam](https://liamsherwin.tech)
+* [Finn](https://finn.nz)
+
 
 
 ## Acknowledgements
-
+* [Cloudflare](https://cloudflare.com)
 * [Astro](https://astro.build)
 * [Vercel](https://vercel.com)
 * [Rolleston College Film  Club](https://filmclub.tech)
