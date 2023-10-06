@@ -7,12 +7,15 @@
 
   const COUNT = 900;
   const SPEED = 0.1;
+
+  var currentHue = 0
   class Star {
     x: number;
     y: number;
     z: number;
     xPrev: number;
     yPrev: number;
+    hue: number;
 
     constructor(x = 0, y = 0, z = 0) {
       this.x = x;
@@ -20,6 +23,7 @@
       this.z = z;
       this.xPrev = x;
       this.yPrev = y;
+      this.hue =  Math.random() * (360 - 0) + 0;
     }
 
     update(width: number, height: number, speed: number) {
@@ -43,6 +47,7 @@
     }
 
     draw(ctx: CanvasRenderingContext2D) {
+      ctx.strokeStyle = `hsl(${this.hue += 1 % 360}, 100%, 80%)`
       ctx.lineWidth = this.z;
       ctx.beginPath();
       ctx.moveTo(this.x, this.y);
@@ -85,7 +90,7 @@
 
     ctx.translate(width / 2, height / 2);
     ctx.fillStyle = "rgba(0, 0, 0, 0.4)";
-    ctx.strokeStyle = "white";
+    ctx.strokeStyle = "#00c8ff";
     rafId = requestAnimationFrame(frame);
   }
 
@@ -95,6 +100,7 @@
 
     for (const star of stars) {
       star.update(width, height, SPEED);
+      
       star.draw(ctx);
     }
 
