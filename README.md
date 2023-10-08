@@ -16,8 +16,7 @@
 
 ## About The Project
 
-Built in astro its meant to be lean and fast
-
+This site is built in Astro to be a lean and fast portfolio site for the Rolleston College Film Club
 ## Built With
 
 * Astro
@@ -28,7 +27,7 @@ Built in astro its meant to be lean and fast
 * AWS S3
 ## Roadmap
 
-There is alot of stuff that I want to make  happen. And alot more to come
+There are numerous more features we intend to implement, with many more in the works.
 
 ## Contributing
 

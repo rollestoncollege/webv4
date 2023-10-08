@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Supported Versions
-Below are the vershions of the site that are supproted
+Below are the versions of the site that are supported
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -10,6 +10,6 @@ Below are the vershions of the site that are supproted
 | 2       | :x: |
 | 1       | :x:                |
 
-## Reporting a Vulnerability
+## Reporting a Vunerability
 
 Email github@husky.nz
