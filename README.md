@@ -19,12 +19,13 @@
 This site is built in Astro to be a lean and fast portfolio site for the Rolleston College Film Club
 ## Built With
 
-* Astro
-* Tailwind
-* Vercel
-* Cloudlfare
-* Github
-* AWS S3
+* [Astro](https://astro.build/)
+* [Tailwind](https://tailwindcss.com/)
+* [Vercel](https://vercel.com/)
+* [Cloudlfare](https://www.cloudflare.com/)
+* [Github](https://github.com/)
+* [AWS S3](https://aws.amazon.com/pm/serv-s3/?trk=fecf68c9-3874-4ae2-a7ed-72b6d19c8034&sc_channel=ps&ef_id=CjwKCAjwvrOpBhBdEiwAR58-3FbmEoc9WO3VvEhYRulAUtiFBDXD4lbbttnShl7keIsckyEgHoARrxoCU2kQAvD_BwE:G:s&s_kwcid=AL!4422!3!536452728638!e!!g!!aws%20s3!11204620052!112938567994)
+
 ## Roadmap
 
 There are numerous more features we intend to implement, with many more in the works.
