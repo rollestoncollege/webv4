@@ -54,3 +54,5 @@ Distributed under the MPL License. See [LICENSE](https://github.com/rollestoncol
 * [Astro](https://astro.build)
 * [Vercel](https://vercel.com)
 * [Rolleston College Film  Club](https://filmclub.tech)
+
+## This website is hosted by HuskyNZ
