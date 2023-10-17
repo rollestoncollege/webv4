@@ -6,11 +6,9 @@
 
   <h3 align="center">Rolleston College Film Club's V4 Website</h3>
   <p align="center">This website is hosted by HuskyNZ</p>
+  <br>
 
-  <p align="center">
-    <a href="https://github.com/rollestoncollege/Webv4/issues">Report Bug</a>
-    .
-  </p>
+  
 </p>
 
 ![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=rolleston-college-film-club-website) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fcloudflare-pages-badges.hunz.workers.dev%2F%3FprojectName%3Dwebv4) ![Contributors](https://img.shields.io/github/contributors/rollestoncollege/Webv4?color=dark-green) ![Issues](https://img.shields.io/github/issues/rollestoncollege/Webv4) ![License](https://img.shields.io/github/license/rollestoncollege/Webv4) 
