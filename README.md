@@ -5,6 +5,7 @@
   </a>
 
   <h3 align="center">Rolleston College Film Club's V4 Website</h3>
+  <p align="center">This website is hosted by HuskyNZ</p>
 
   <p align="center">
     <a href="https://github.com/rollestoncollege/Webv4/issues">Report Bug</a>
@@ -54,3 +55,4 @@ Distributed under the MPL License. See [LICENSE](https://github.com/rollestoncol
 * [Astro](https://astro.build)
 * [Vercel](https://vercel.com)
 * [Rolleston College Film  Club](https://filmclub.tech)
+
